@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 100vh;
+}
+.nav {
+  height: 15vh;
+  background-color: cadetblue;
+}
+.visual {
+  height: 75vh;
+  background-color: cornsilk;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.bottom {
+  height: 10vh;
+  background-color: darkcyan;
+}
+.node {
+  width: 20px;
+  background-color: coral;
+  border: 1px solid darkcyan;
+  margin: 0 5px;
+}
